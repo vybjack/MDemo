@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MdDemo</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="zhi_hu">知乎</string>
+    <string name="wang_yi">网易</string>
+    <string name="look_per_day">每日看看</string>
+
+
+</resources>

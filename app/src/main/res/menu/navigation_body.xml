@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android.support.design="http://schemas.android.com/tools">
+    <group android:id="@+id/g1">
+        <item
+            android:id="@+id/zhi_hu"
+            android:checkable="true"
+            android:icon="@mipmap/icon_zhihu"
+            android:title="@string/zhi_hu"
+            android.support.design:itemTextColor="@color/nev_item"
+            />
+        <item
+            android:id="@+id/wang_yi"
+            android:checkable="true"
+            android:icon="@mipmap/icon_wangyi"
+            android:title="@string/wang_yi"
+            android.support.design:itemTextColor="@color/nev_item"
+            />
+        <item
+            android:id="@+id/look_per_day"
+            android:checkable="true"
+            android:icon="@mipmap/icon_look"
+            android:title="@string/look_per_day"
+            android.support.design:itemTextColor="@color/nev_item"
+            />
+    </group>
+
+</menu>
